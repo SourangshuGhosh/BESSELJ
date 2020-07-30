@@ -6,7 +6,7 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 #
-#  Get rid of obnoxious garbage.
+#  Get rid of obnoxious garbage by Sourangshu Ghosh
 #
 rm -f *.pyc
 rm -rf __pycache__
