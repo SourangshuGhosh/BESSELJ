@@ -16,7 +16,7 @@ def besselj_test ( ):
 #
 #  Author:
 #
-#    John Burkardt
+#    Sourangshu Ghosh
 #
   import platform
 
@@ -62,7 +62,7 @@ def bessel_jx_values ( n_data ):
 #
 #  Author:
 #
-#    John Burkardt
+#   Sourangshu Ghosh
 #
 #  Reference:
 #
@@ -218,7 +218,7 @@ def bessel_jx_values_test ( ):
 #
 #  Author:
 #
-#    John Burkardt
+#    Sourangshu Ghosh
 #
   import platform
 
@@ -263,8 +263,7 @@ def scipy_jv_test ( ):
 #    13 January 2015
 #
 #  Author:
-#
-#    John Burkardt
+# Sourangshu Ghosh
 #
   import platform
 
@@ -314,7 +313,7 @@ def timestamp ( ):
 #
 #  Author:
 #
-#    John Burkardt
+#    Sourangshu Ghosh
 #
 #  Parameters:
 #
@@ -343,7 +342,7 @@ def timestamp_test ( ):
 #
 #  Author:
 #
-#    John Burkardt
+#   Sourangshu Ghosh
 #
   import platform
 
